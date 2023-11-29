@@ -19,8 +19,19 @@
 
 ___
 
-Другие библиотеки интеграций<br>
-<ul>
-<li><img src="https://github.com/Bayselonarrend/TelegramEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/TelegramEnterprise/">TelegramEnterprise</a> - библиотека для интеграции с Telegram</li>
-  <li><img src="https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a> - библиотека для интеграции с ВКонтакте</li>
-</ul>
+>В проекте используется механизм распаковки zip и gzip vbondarevsky/Connector
+>
+>Copyright 2017-2023 Vladimir Bondarevskiy
+>под Apache License, Version 2.0
+>
+>https://github.com/vbondarevsky/Connector/
+>
+>Остальной проект распространяется под лицензией MIT
+>Модуль Инструменты данной библиотеки совместим с подобными модулями последних версий остальных библиотек в линейке <br><br>
+
+
+><ul>
+><li><img src="https://github.com/Bayselonarrend/TelegramEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/TelegramEnterprise/">TelegramEnterprise</a> - библиотека для интеграции с Telegram</li>
+>  <li><img src="https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a> - библиотека для интеграции с ВКонтакте</li>
+></ul>
+
