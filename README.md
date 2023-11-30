@@ -219,3 +219,9 @@ ___
 >  <li><img src="https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/VKEnterprise/">VKEnterprise</a> - библиотека для интеграции с ВКонтакте</li>
 ></ul>
 
+<br>
+
+>![Infostart](https://github.com/Bayselonarrend/VKEnterprise/raw/main/infostart.svg)
+>
+>Статья на Инфостарте: [https://infostart.ru/1c/articles/1987615/](https://infostart.ru/1c/articles/1987615/)
+
